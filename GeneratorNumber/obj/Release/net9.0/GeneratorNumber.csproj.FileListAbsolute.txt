@@ -1,0 +1,14 @@
+F:\TeachingHillel\Homework9\GeneratorNumber\bin\Release\net9.0\GeneratorNumber.exe
+F:\TeachingHillel\Homework9\GeneratorNumber\bin\Release\net9.0\GeneratorNumber.deps.json
+F:\TeachingHillel\Homework9\GeneratorNumber\bin\Release\net9.0\GeneratorNumber.runtimeconfig.json
+F:\TeachingHillel\Homework9\GeneratorNumber\bin\Release\net9.0\GeneratorNumber.dll
+F:\TeachingHillel\Homework9\GeneratorNumber\bin\Release\net9.0\GeneratorNumber.pdb
+F:\TeachingHillel\Homework9\GeneratorNumber\obj\Release\net9.0\GeneratorNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\TeachingHillel\Homework9\GeneratorNumber\obj\Release\net9.0\GeneratorNumber.AssemblyInfoInputs.cache
+F:\TeachingHillel\Homework9\GeneratorNumber\obj\Release\net9.0\GeneratorNumber.AssemblyInfo.cs
+F:\TeachingHillel\Homework9\GeneratorNumber\obj\Release\net9.0\GeneratorNumber.csproj.CoreCompileInputs.cache
+F:\TeachingHillel\Homework9\GeneratorNumber\obj\Release\net9.0\GeneratorNumber.dll
+F:\TeachingHillel\Homework9\GeneratorNumber\obj\Release\net9.0\refint\GeneratorNumber.dll
+F:\TeachingHillel\Homework9\GeneratorNumber\obj\Release\net9.0\GeneratorNumber.pdb
+F:\TeachingHillel\Homework9\GeneratorNumber\obj\Release\net9.0\GeneratorNumber.genruntimeconfig.cache
+F:\TeachingHillel\Homework9\GeneratorNumber\obj\Release\net9.0\ref\GeneratorNumber.dll

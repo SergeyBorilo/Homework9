@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TeachingHillel\\Homework9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FE339-A4BF-4E8B-B327-7E37C27A9EE8}|NumbersReading\\NumbersReading.csproj|f:\\teachinghillel\\homework9\\numbersreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74FE339-A4BF-4E8B-B327-7E37C27A9EE8}|NumbersReading\\NumbersReading.csproj|solutionrelative:numbersreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FE339-A4BF-4E8B-B327-7E37C27A9EE8}|NumbersReading\\NumbersReading.csproj|f:\\teachinghillel\\homework9\\numbersreading\\service\\istatscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74FE339-A4BF-4E8B-B327-7E37C27A9EE8}|NumbersReading\\NumbersReading.csproj|solutionrelative:numbersreading\\service\\istatscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74FE339-A4BF-4E8B-B327-7E37C27A9EE8}|NumbersReading\\NumbersReading.csproj|f:\\teachinghillel\\homework9\\numbersreading\\service\\statscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74FE339-A4BF-4E8B-B327-7E37C27A9EE8}|NumbersReading\\NumbersReading.csproj|solutionrelative:numbersreading\\service\\statscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E64E606-83E6-4FB5-86CA-577DE8FF7F2A}|GeneratorNumber\\GeneratorNumber.csproj|f:\\teachinghillel\\homework9\\generatornumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E64E606-83E6-4FB5-86CA-577DE8FF7F2A}|GeneratorNumber\\GeneratorNumber.csproj|solutionrelative:generatornumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework9\\GeneratorNumber\\Program.cs",
+              "RelativeDocumentMoniker": "GeneratorNumber\\Program.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework9\\GeneratorNumber\\Program.cs",
+              "RelativeToolTip": "GeneratorNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:23:35.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatsCalculator.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework9\\NumbersReading\\Service\\StatsCalculator.cs",
+              "RelativeDocumentMoniker": "NumbersReading\\Service\\StatsCalculator.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework9\\NumbersReading\\Service\\StatsCalculator.cs",
+              "RelativeToolTip": "NumbersReading\\Service\\StatsCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:21:32.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStatsCalculator.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework9\\NumbersReading\\Service\\IStatsCalculator.cs",
+              "RelativeDocumentMoniker": "NumbersReading\\Service\\IStatsCalculator.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework9\\NumbersReading\\Service\\IStatsCalculator.cs",
+              "RelativeToolTip": "NumbersReading\\Service\\IStatsCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:21:31.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\TeachingHillel\\Homework9\\NumbersReading\\Program.cs",
+              "RelativeDocumentMoniker": "NumbersReading\\Program.cs",
+              "ToolTip": "F:\\TeachingHillel\\Homework9\\NumbersReading\\Program.cs*",
+              "RelativeToolTip": "NumbersReading\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:21:22.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

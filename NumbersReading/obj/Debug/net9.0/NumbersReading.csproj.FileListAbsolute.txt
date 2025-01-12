@@ -1,0 +1,15 @@
+F:\TeachingHillel\Homework9\NumbersReading\bin\Debug\net9.0\NumbersReading.exe
+F:\TeachingHillel\Homework9\NumbersReading\bin\Debug\net9.0\NumbersReading.deps.json
+F:\TeachingHillel\Homework9\NumbersReading\bin\Debug\net9.0\NumbersReading.runtimeconfig.json
+F:\TeachingHillel\Homework9\NumbersReading\bin\Debug\net9.0\NumbersReading.dll
+F:\TeachingHillel\Homework9\NumbersReading\bin\Debug\net9.0\NumbersReading.pdb
+F:\TeachingHillel\Homework9\NumbersReading\obj\Debug\net9.0\NumbersReading.GeneratedMSBuildEditorConfig.editorconfig
+F:\TeachingHillel\Homework9\NumbersReading\obj\Debug\net9.0\NumbersReading.AssemblyInfoInputs.cache
+F:\TeachingHillel\Homework9\NumbersReading\obj\Debug\net9.0\NumbersReading.AssemblyInfo.cs
+F:\TeachingHillel\Homework9\NumbersReading\obj\Debug\net9.0\NumbersReading.csproj.CoreCompileInputs.cache
+F:\TeachingHillel\Homework9\NumbersReading\obj\Debug\net9.0\NumbersReading.dll
+F:\TeachingHillel\Homework9\NumbersReading\obj\Debug\net9.0\refint\NumbersReading.dll
+F:\TeachingHillel\Homework9\NumbersReading\obj\Debug\net9.0\NumbersReading.pdb
+F:\TeachingHillel\Homework9\NumbersReading\obj\Debug\net9.0\NumbersReading.genruntimeconfig.cache
+F:\TeachingHillel\Homework9\NumbersReading\obj\Debug\net9.0\ref\NumbersReading.dll
+F:\TeachingHillel\Homework9\NumbersReading\obj\Debug\net9.0\NumbersReading.sourcelink.json
